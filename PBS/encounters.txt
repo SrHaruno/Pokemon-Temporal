@@ -1,0 +1,52 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+
+#Routes
+#-------------------------------
+[005] # Route 1
+Land,21
+    40,PIDGEY,2,4
+    30,ZIGZAGOON,2,4
+LandNight,21
+    40,MURKROW,2,4
+	30,ZIGZAGOON_1,2,4
+#-------------------------------
+[019] # Route 2
+Land,21
+    40,PIDGEY,6,8
+    30,ZIGZAGOON,6,8
+	30,NIDORANmA,7
+	20,JIGGLYPUFF,7,8
+	20,NIDORANfE,7
+	10,ZORUA_1,7,8
+LandNight,21
+    40,MURKROW,6,8
+	30,ZIGZAGOON_1,6,8
+	30,NIDORANfE,7
+	20,CLEFAIRY,7,8
+	20,NIDORANmA,7
+	10,ZORUA_1,7,8
+#-------------------------------
+[021] # Route 3
+Land,21
+	40,BELLSPROUT,8,10
+	30,GULPIN,8,10
+	30,FLABEBE,8,9
+	20,ABRA,9,10
+	20,JIGGLYPUFF,8,10
+	10,BUDEW,9
+LandNight,21
+	40,BELLSPROUT,8,10
+	30,GULPIN,8,10
+	30,FLABEBE,8,9
+	20,GASTLY,9,10
+	20,JIGGLYPUFF,8,10
+	10,BUDEW,9
+
+#Dungeons
+#-------------------------------
+[018] #  Fistone Cave
+Cave,5
+	40,ZUBAT,4,6
+	40,ROGGENROLA,5,6
+	30,MAKUHITA,4,6
+	30,CROAGUNK,5,6

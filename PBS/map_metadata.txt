@@ -1,0 +1,55 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[001]   # Intro
+Name = Intro
+#-------------------------------
+[002]   # Anfang Town
+Name = Anfang Town
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[003]   # Player's house
+Name = Anfang Town
+HealingSpot = 3,5,5
+#-------------------------------
+[005]   # Route 1
+Name = Route 1
+Outdoor = true
+ShowArea = true
+BattleBack = Field
+#-------------------------------
+[011]   # Knallrot Town
+Name = Knallrot Town
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[013]   # Knallrot PC
+Name = Knallrot Town
+#-------------------------------
+[016]   # House_1
+Name = Knallrot Town
+#-------------------------------
+[017]   # House_2
+Name = Knallrot Town
+#-------------------------------
+[018]   # Fistone Cave
+Name = Fistone Cave
+ShowArea = true
+Bicycle = true
+BattleBack = Cave1
+#-------------------------------
+[019]   # Route 2
+Name = Route 2
+Outdoor = true
+ShowArea = true
+BattleBack = Field
+#-------------------------------
+[020]   # Rosa City
+Outdoor = true
+ShowArea = true
+BattleBack = Field
+#-------------------------------
+[021]   # Route 3
+Outdoor = true
+ShowArea = true
+BattleBack = Field

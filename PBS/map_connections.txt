@@ -1,0 +1,10 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Anfang Town (2) - Route 1 (5)
+2,North,8,5,South,0
+# Knallrot Town (11) - Route 1 (5)
+11,South,0,5,North,0
+# Route 2 (19) - Rosa City (20)
+19,North,4,20,South,0
+# Route 3 (21) - Rosa City (20)
+21,West,0,20,East,16

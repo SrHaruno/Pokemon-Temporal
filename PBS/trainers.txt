@@ -1,0 +1,75 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+
+#Rival Battles
+#-------------------------------
+[RIVAL1,Stayle,1] #Player has Aron
+LoseText = You fight like everyone else!
+
+ Pokemon = ZORUA,8
+  Gender = Male
+   Form  = 1
+
+ Pokemon = TIMBURR,11
+  Gender = Male
+#-------------------------------
+[RIVAL1,Stayle,2] #Player has Ralts
+LoseText = You fight like everyone else!
+
+ Pokemon = ZORUA,8
+  Gender = Male
+  Form   = 1
+
+ Pokemon = ARON,11
+  Gender = Male
+#-------------------------------
+[RIVAL1,Stayle,3] #Player has Timburr
+LoseText = You fight like everyone else!
+
+ Pokemon = ZORUA,8
+  Gender = Male
+  Form   = 1
+
+ Pokemon = RALTS,11
+  Gender = Female
+
+
+#Team Alpha Battles
+
+#Knallrot Town
+#-------------------------------
+[TEAMALPHA_M,Grunt]
+LoseText = Beaten by a kid?
+ Pokemon = NICKIT,7
+ Gender  = Male
+ Ball    = DUSKBALL
+
+
+#Trainers Battles
+
+#Route 2
+#-------------------------------
+[YOUNGSTER,Joey]
+LoseText = My top percentage Pokémon!
+ Pokemon = PIDGEY,8
+#-------------------------------
+[LASS,Britney]
+LoseText = My cutie!
+ Pokemon = JIGGLYPUFF,8
+#-------------------------------
+[HIKER,Nob]
+LoseText = Im still good at hiking!
+ Pokemon = ROGGENROLA,7
+ Pokemon = ROGGENROLA,7
+ Pokemon = ROGGENROLA,7
+ 
+#Dripstone Cave
+#-------------------------------
+[BLACKBELT,Serizawa]
+LoseText = My muscles wheren't enought!
+ Pokemon = MAKUHITA,6
+#-------------------------------
+[HIKER,Jeremy]
+LoseText = I've been defeated!
+ Pokemon = ROGGENROLA,6
+ Pokemon = ROGGENROLA,6
+ Pokemon = ROGGENROLA,6
