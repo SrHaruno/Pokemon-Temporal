@@ -33,6 +33,32 @@ LoseText = You fight like everyone else!
   Gender = Female
 
 
+#Gyms
+
+#Rosa City Gym
+#-------------------------------
+[AROMALADY,Rafaela]
+LoseText = I was lost in the scent of the victory!
+ Pokemon = CLEFAIRY,8
+#-------------------------------
+[AROMALADY,Nimi]
+LoseText = My cute Pokémon!
+ Pokemon = FLABEBE,8
+#-------------------------------
+[LEADER_Fauna,Fauna]
+LoseText = My My! Your really strong!
+Items    = POTION
+
+ Pokemon = FLABEBE,8
+ Moves   = FAIRYWIND
+ Ball    = LOVEBALL
+ 
+ Pokemon = CLEFAIRY,10
+  Moves  = COSMICPOWER,STOREDPOWER,DISARMINGVOICE
+  Ball   = LOVEBALL
+  Item   = ORANBERRY
+
+
 #Team Alpha Battles
 
 #Knallrot Town
@@ -40,6 +66,22 @@ LoseText = You fight like everyone else!
 [TEAMALPHA_M,Grunt]
 LoseText = Beaten by a kid?
  Pokemon = NICKIT,7
+ Gender  = Male
+ Ball    = DUSKBALL
+
+#Rosa City - Research Lab
+#-------------------------------
+[TEAMALPHA_M,Grunt,1]
+LoseText = Oh no, boss won't like this!
+
+ Pokemon = MURKROW,8
+ Gender  = Male
+ Ball    = DUSKBALL
+#-------------------------------
+[TEAMALPHA_F,Grunt]
+LoseText = This wasn't the last of Team Alpha!
+
+ Pokemon = NICKIT,8
  Gender  = Male
  Ball    = DUSKBALL
 

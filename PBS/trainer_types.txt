@@ -309,7 +309,7 @@ Name = Rocket Boss
 Gender = Male
 BaseMoney = 100
 #-------------------------------
-[LEADER_Brock]
+[LEADER_Fauna]
 Name = Gym Leader
 Gender = Male
 BaseMoney = 100
