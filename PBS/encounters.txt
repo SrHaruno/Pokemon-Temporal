@@ -47,6 +47,27 @@ LandNight,21
 	30,FLABEBE_4,8,9
 	20,COMFEY,8
 	5,BUDEW,9
+#-------------------------------
+[031] # Route 4
+Land,21
+	40,PIDGEY,12,14
+	20,EEVEE,12,14
+	10,SOLROCK,13,14
+LandNight,21
+	40,MURKROW,12,14
+	20,EEVEE,12,14
+	10,LUNATONE,13,14
+#-------------------------------
+[032] # Route 5
+Land,21
+	40,WINGULL,12,14
+	30,SLOWPOKE,13,14
+	10,CHEWTLE,13
+LandNight,21
+	40,WINGULL,12,14
+	30,SLOWPOKE,13,14
+	10,CHEWTLE,13
+
 
 #Dungeons
 #-------------------------------
