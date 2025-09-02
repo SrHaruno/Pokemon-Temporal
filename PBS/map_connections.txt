@@ -4,7 +4,9 @@
 2,North,8,5,South,0
 # Knallrot Town (11) - Route 1 (5)
 11,South,0,5,North,0
+# Rosa City (20) - Route 3 (21)
+20,East,14,21,West,0
+# Fated Grove (29) - Route 3 (21)
+29,West,33,21,East,0
 # Route 2 (19) - Rosa City (20)
-19,North,4,20,South,0
-# Route 3 (21) - Rosa City (20)
-21,West,0,20,East,16
+19,North,12,20,South,0

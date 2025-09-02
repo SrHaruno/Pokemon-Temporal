@@ -45,11 +45,18 @@ ShowArea = true
 BattleBack = Field
 #-------------------------------
 [020]   # Rosa City
+Name = Rosa City
 Outdoor = true
 ShowArea = true
 BattleBack = Field
 #-------------------------------
 [021]   # Route 3
+Name = Route 3
 Outdoor = true
 ShowArea = true
 BattleBack = Field
+#-------------------------------
+[028]   # Rosa Forest
+Outdoor = true
+ShowArea = true
+BattleBack = Forest

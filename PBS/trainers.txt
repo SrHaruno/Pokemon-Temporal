@@ -88,6 +88,19 @@ LoseText = This wasn't the last of Team Alpha!
 
 #Trainers Battles
 
+#Dripstone Cave
+#-------------------------------
+[BLACKBELT,Serizawa]
+LoseText = My muscles wheren't enought!
+ Pokemon = MAKUHITA,6
+#-------------------------------
+[HIKER,Jeremy]
+LoseText = I've been defeated!
+ Pokemon = ROGGENROLA,6
+ Pokemon = ROGGENROLA,6
+ Pokemon = ROGGENROLA,6
+
+
 #Route 2
 #-------------------------------
 [YOUNGSTER,Joey]
@@ -104,14 +117,22 @@ LoseText = Im still good at hiking!
  Pokemon = ROGGENROLA,7
  Pokemon = ROGGENROLA,7
  
-#Dripstone Cave
+ 
+#Rosa Forest
 #-------------------------------
-[BLACKBELT,Serizawa]
-LoseText = My muscles wheren't enought!
- Pokemon = MAKUHITA,6
+[BUGCATCHER,James]
+LoseText = I got tangled!
+ Pokemon = SEWADDLE,11
+ Pokemon = VENIPEDE,11
 #-------------------------------
-[HIKER,Jeremy]
-LoseText = I've been defeated!
- Pokemon = ROGGENROLA,6
- Pokemon = ROGGENROLA,6
- Pokemon = ROGGENROLA,6
+[BUGCATCHER,Rick]
+LoseText = You are bugging me!
+ Pokemon = SCYTHER,12
+#-------------------------------
+[BUGCATCHER,Hidori]
+LoseText = I got silk in my mouth!
+ Pokemon = HERACROSS,11
+#-------------------------------
+[LASS,Jasmine]
+LoseText = Eek! I hate bugs!
+ Pokemon = PIKACHU,12
