@@ -62,8 +62,41 @@ Outdoor = true
 ShowArea = true
 BattleBack = Forest
 #-------------------------------
+[029]   # Fated Grove
+Name = Fated Grove
+Outdoor = true
+ShowArea = true
+BattleBack = Field
+#-------------------------------
+[030]   # Route 4 Gate
+Bicycle = true
+#-------------------------------
 [031]   # Route 4
+Name = Route 4
+Outdoor = true
+ShowArea = true
 BattleBack = Field
 #-------------------------------
 [032]   # Route 5
+Name = Route 5
+Outdoor = true
+ShowArea = true
 BattleBack = Water
+#-------------------------------
+[033]   # Ziel Town
+Name = Ziel Town
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[034]   # Challangers Path
+Name = Challangers Path
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[035]   # Route 6
+Outdoor = true
+ShowArea = true
+BattleBack = Field
+#-------------------------------
+[036]   # Route 6 Gate
+Bicycle = true

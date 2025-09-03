@@ -10,5 +10,9 @@
 20,East,14,21,West,0
 # Fated Grove (29) - Route 3 (21)
 29,West,39,21,East,0
+# Route 4 (31) - Ziel Town (33)
+31,North,8,33,South,0
+# Challangers Path (34) - Ziel Town (33)
+34,West,49,33,East,0
 # Route 5 (32) - Route 4 (31)
 32,North,0,31,South,0
