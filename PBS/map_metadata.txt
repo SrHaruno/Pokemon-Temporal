@@ -105,5 +105,12 @@ Name = Route 6 Gate
 Bicycle = true
 #-------------------------------
 [037]   # Sturmstadt City
+Name = Sturmstadt City
 Outdoor = true
 ShowArea = true
+#-------------------------------
+[044]   # Blitzhohle Cave
+Name = 
+ShowArea = true
+Bicycle = true
+BattleBack = Cave1

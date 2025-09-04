@@ -125,3 +125,8 @@ LandNight,21
 	30,FOMANTIS,11,12
 	10,SCYTHER,11,12
 	10,PIKACHU,12
+#-------------------------------
+[044] # Blitzhohle
+Cave,5
+	40,WOOBAT,14,16
+	30,GEODUDE_1,15,16
