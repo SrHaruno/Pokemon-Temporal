@@ -126,7 +126,31 @@ LandNight,21
 	10,SCYTHER,11,12
 	10,PIKACHU,12
 #-------------------------------
-[044] # Blitzhohle
+[044] # Blitzhohle Cave [1F]
 Cave,5
 	40,WOOBAT,14,16
 	30,GEODUDE_1,15,16
+	30,MAGNEMITE,15,16
+	20,JOLTIK,14,16
+RockSmash,50
+    60,NOSEPASS,13,14
+#-------------------------------
+[045] # Blitzhohle Cave [3F]
+Cave,5
+	40,WOOBAT,14,16
+	30,GEODUDE_1,15,16
+	30,MAGNEMITE,15,16
+	20,JOLTIK,14,16
+	20,ONIX,15,16
+	10,TYNAMO,15
+RockSmash,50
+    60,NOSEPASS,13,14
+#-------------------------------
+[046] # Blitzhohle Cave [3F]
+Cave,5
+	40,WOOBAT,14,16
+	30,GEODUDE_1,15,16
+	30,MAGNEMITE,15,16
+	20,JOLTIK,14,16
+	20,ONIX,15,16
+	15,TYNAMO,15

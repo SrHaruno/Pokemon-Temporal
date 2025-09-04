@@ -109,8 +109,19 @@ Name = Sturmstadt City
 Outdoor = true
 ShowArea = true
 #-------------------------------
-[044]   # Blitzhohle Cave
-Name = 
+[044]   # Blitzhohle Cave [1F]
+Name = Blitzhohle Cave
 ShowArea = true
 Bicycle = true
 BattleBack = Cave1
+Flags = Magnetic
+#-------------------------------
+[045]   # Blitzhohle Cave [2F]
+Bicycle = true
+BattleBack = Cave1
+Flags = Magnetic
+#-------------------------------
+[046]   # Blitzhohle Cave [3F]
+Bicycle = true
+BattleBack = Cave1
+Flags = Magnetic
