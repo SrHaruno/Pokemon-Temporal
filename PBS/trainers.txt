@@ -39,25 +39,72 @@ LoseText = You fight like everyone else!
 #-------------------------------
 [AROMALADY,Rafaela]
 LoseText = I was lost in the scent of the victory!
- Pokemon = CLEFAIRY,8
+ Pokemon = FLABEBE,8
 #-------------------------------
 [AROMALADY,Nimi]
 LoseText = My cute Pokémon!
- Pokemon = FLABEBE,8
+ Pokemon = CLEFAIRY,8
 #-------------------------------
 [LEADER_Fauna,Fauna]
 LoseText = My My! Your really strong!
 Items    = POTION
 
- Pokemon = FLABEBE,8
- Moves   = FAIRYWIND
+ Pokemon = CUTIEFLY,8
+ Gender  = Female
+ Moves   = STUNSPORE,STRUGGLEBUG,FAIRYWIND,SAFEGUARD
  Ball    = LOVEBALL
  
- Pokemon = CLEFAIRY,10
-  Moves  = COSMICPOWER,STOREDPOWER,DISARMINGVOICE
+ Pokemon = SPRITZEE,10
+  Gender = Female
+  Moves  = DRAININGKISS,ECHOEDVOICE,PROTECT,SWEETKISS
   Ball   = LOVEBALL
   Item   = ORANBERRY
 
+
+#Sturmstadt City Gym
+#-------------------------------
+[BIRDKEEPER,Gale]
+LoseText = You cut my wings!
+ Pokemon = PIDGEY,15
+ Pokemon = PIDGEY,15
+ Pokemon = PIDGEY,15
+#-------------------------------
+[BIRDKEEPER,Viento]
+LoseText = You are an ace in the air!
+ Pokemon = MURKROW,15
+ Pokemon = STARLY,15
+#-------------------------------
+[BIRDKEEPER,Zephy]
+LoseText = This wind is too much for me!
+ Pokemon = ZUBAT,16
+#-------------------------------
+[BIRDKEEPER,Delta]
+LoseText = You are an ace in the air!
+ Pokemon = PIDGEY,16
+
+#-------------------------------
+[LEADER_Skyler,Skyler]
+LoseText = My My! Your really strong!
+Items    = SUPERPOTION
+
+ Pokemon = MURKROW,16
+ Gender  = Male
+ Moves   = WINGATTACK,NIGHTSHADE,TAILWIND
+ Ball    = DUSKBALL
+
+ Pokemon = PIDGEY,16
+ Gender  = Female
+ Moves   = WINGATTACK,QUICKATTACK,TAILWIND
+ Ball    = FASTBALL
+ 
+ Pokemon = STARAVIA,18
+  Gender = Male
+  Moves  = WINGATTACK,QUICKATTACK,TAILWIND
+  Ball   = QUICKBALL
+  Item   = ORANBERRY
+  
+  
+  
 
 #Team Alpha Battles
 

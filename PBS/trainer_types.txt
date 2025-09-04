@@ -311,14 +311,14 @@ BaseMoney = 100
 #-------------------------------
 [LEADER_Fauna]
 Name = Gym Leader
-Gender = Male
+Gender = Female
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
 VictoryBGM = Battle victory leader
 #-------------------------------
-[LEADER_Misty]
+[LEADER_Skyler]
 Name = Gym Leader
-Gender = Female
+Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
 VictoryBGM = Battle victory leader

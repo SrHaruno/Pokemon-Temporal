@@ -69,6 +69,7 @@ ShowArea = true
 BattleBack = Field
 #-------------------------------
 [030]   # Route 4 Gate
+Name = Route 4 Gate
 Bicycle = true
 #-------------------------------
 [031]   # Route 4
@@ -94,9 +95,15 @@ Outdoor = true
 ShowArea = true
 #-------------------------------
 [035]   # Route 6
+Name = Route 6
 Outdoor = true
 ShowArea = true
 BattleBack = Field
 #-------------------------------
 [036]   # Route 6 Gate
+Name = Route 6 Gate
 Bicycle = true
+#-------------------------------
+[037]   # Sturmstadt City
+Outdoor = true
+ShowArea = true
