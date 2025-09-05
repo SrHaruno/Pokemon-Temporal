@@ -98,7 +98,30 @@ LandNight,21
 	10,MILTANK,15,16
 	10,TAUROS,15,16
 	10,ELGYEM,15
-
+#-------------------------------
+[047] # Route 7
+Land,21
+	40,STARLY,16,18
+	20,SPRITZEE,17,18
+LandNight,21
+	40,STARLY,16,18
+	20,SPRITZEE,17,18
+#-------------------------------
+[048] # Route 8
+Land,5
+    40,WINGULL,16,18
+	30,CORPHISH,16,18
+	30,SHELLOS,17,18
+	20,PYUKUMUKU,16,18
+	10,SANDYGAST,17
+LandNight,5
+    40,WINGULL,16,18
+	30,CORPHISH,16,18
+	30,SHELLOS,17,18
+	20,STARYU,16,18
+	10,SANDYGAST,17
+RockSmash,50
+    60,BINACLE,16,18
 
 #Dungeons
 #-------------------------------
@@ -141,8 +164,8 @@ Cave,5
 	30,GEODUDE_1,15,16
 	30,MAGNEMITE,15,16
 	20,JOLTIK,14,16
-	20,ONIX,15,16
-	10,TYNAMO,15
+	20,TYNAMO,15,16
+	10,BELDUM,15
 RockSmash,50
     60,NOSEPASS,13,14
 #-------------------------------
@@ -152,5 +175,5 @@ Cave,5
 	30,GEODUDE_1,15,16
 	30,MAGNEMITE,15,16
 	20,JOLTIK,14,16
-	20,ONIX,15,16
-	15,TYNAMO,15
+	20,TYNAMO,15,16
+	15,BELDUM,15

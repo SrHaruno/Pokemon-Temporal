@@ -117,11 +117,23 @@ BattleBack = Cave1
 Flags = Magnetic
 #-------------------------------
 [045]   # Blitzhohle Cave [2F]
+Name = Blitzhohle Cave [2F]
 Bicycle = true
 BattleBack = Cave1
 Flags = Magnetic
 #-------------------------------
 [046]   # Blitzhohle Cave [3F]
+Name = Blitzhohle Cave [3F]
 Bicycle = true
 BattleBack = Cave1
 Flags = Magnetic
+#-------------------------------
+[047]   # Route 7
+Outdoor = true
+ShowArea = true
+BattleBack = Field
+#-------------------------------
+[048]   # Route 8
+Outdoor = true
+ShowArea = true
+BattleBack = Water

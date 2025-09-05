@@ -104,7 +104,62 @@ Items    = SUPERPOTION
   Item   = ORANBERRY
   
   
+#Blau City Gym
+#-------------------------------
+[SAILOR,Pole]
+LoseText = I have been washed away!
+ Pokemon = BINACLE,18
+#-------------------------------
+[SAILOR,Marnie]
+LoseText = Battling in the rain!
+ Pokemon = CORPHISH,18
+#-------------------------------
+[SAILOR,Sail]
+LoseText = In the end, I was the one to lose!
+ Pokemon = STARYU,17
+ Pokemon = STARYU,17
+ Pokemon = STARYU,17
+#-------------------------------
+[SAILOR,Gondo]
+LoseText = He was a huge lizard looking one for sure!
+ Pokemon = SHELLOS,17
+ Pokemon = SHELLOS,17
+#-------------------------------
+[SAILOR,Tsuki]
+LoseText = You sure know how to sail these waters!
+ Pokemon = WINGULL,17
+ Pokemon = WINGULL,17 
+ 
+ 
+#-------------------------------
+[LEADER_Jake,Jake]
+LoseText = My My! Your really strong!
+Items    = SUPERPOTION,SUPERPOTION
   
+ Pokemon = SHELLOS,18
+  Gender = Female
+  Moves  = MUDSLAP,WATERPULSE,RECOVER,RAINDANCE
+  Ball   = DIVEBALL
+  Item   = DAMPROCK
+  
+ Pokemon = CORPHISH,18
+  Gender = Male
+  Moves  = KNOCKOFF,BUBBLEBEAM,TAUNT,RAINDANCE
+  Ball   = DIVEBALL
+  Item   = DAMPROCK
+  
+ Pokemon = STARYU,18
+  Gender = Female
+  Moves  = CONFUSERAY,WATERGUN,RAPIDSPIN,RAINDANCE
+  Ball   = DIVEBALL
+  Item   = DAMPROCK
+  
+ Pokemon = ARROKUDA,21
+  Gender = Male
+  Moves  = AQUAJET,BITE
+  Ball   = DIVEBALL
+  Item   = SITRUSBERRY
+
 
 #Team Alpha Battles
 
