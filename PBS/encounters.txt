@@ -48,6 +48,18 @@ LandNight,21
 	20,COMFEY,8
 	5,BUDEW,9
 #-------------------------------
+[029] # Fated Gtrove
+Land,21
+    40,ODDISH,10,12
+	30,DEERLING,11,12
+	20,FOMANTIS,10,12
+	10,PHANTUMP,11
+LandNight,21
+    40,GASTLY,10,12
+	30,SHUPPET,11,12
+	20,MISDREAVUS,10,12
+	10,PHANTUMP,11
+#-------------------------------
 [031] # Route 4
 Land,21
 	40,PIDGEY,12,14
@@ -137,17 +149,24 @@ Land,21
 	30,VENIPEDE,10,12
 	30,SEWADDLE,10,12
 	40,STARLY,10,12
-	20,FOMANTIS,11,12
+	20,SHROOMISH,11,12
 	10,SCYTHER,11,12
 	10,PIKACHU,12
 LandNight,21
 	40,VENIPEDE,10,12
 	40,SEWADDLE,10,12
 	20,STARLY,10,12
+	20,SHROOMISH,11,12
 	30,GASTLY,10,12
-	30,FOMANTIS,11,12
 	10,SCYTHER,11,12
 	10,PIKACHU,12
+#-------------------------------
+[054] # Forgotten Chamber
+Cave,5
+	40,BALTOY,10,12
+	30,SANDSHREW,11,12
+	20,TRAPINCH,10,12
+	10,GIBLE,11
 #-------------------------------
 [044] # Blitzhohle Cave [1F]
 Cave,5

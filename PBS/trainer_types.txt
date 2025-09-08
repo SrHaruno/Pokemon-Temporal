@@ -304,8 +304,8 @@ Name = Team Alpha
 Gender = Female
 BaseMoney = 32
 #-------------------------------
-[ROCKETBOSS]
-Name = Rocket Boss
+[ALPHABOSS]
+Name = Team Alpha Admin
 Gender = Male
 BaseMoney = 100
 #-------------------------------

@@ -161,7 +161,7 @@ Items    = SUPERPOTION,SUPERPOTION
   Item   = SITRUSBERRY
 
 
-#Team Alpha Battles
+#\\ =========== Team Alpha Battles ========
 
 #Knallrot Town
 #-------------------------------
@@ -186,6 +186,70 @@ LoseText = This wasn't the last of Team Alpha!
  Pokemon = NICKIT,8
  Gender  = Male
  Ball    = DUSKBALL
+ 
+ 
+#Blau - Marine Research Lab
+
+#Lab 1F
+#-------------------------------
+[TEAMALPHA_M,Grunt,2]
+LoseText = This wasn't the last of Team Alpha!
+
+ Pokemon = MURKROW,18
+ Gender  = Male
+ Ball    = DUSKBALL
+#-------------------------------
+[TEAMALPHA_F,Grunt,1]
+LoseText = This wasn't the last of Team Alpha!
+
+ Pokemon = IMPIDIMP,18
+ Gender  = Male
+ Ball    = DUSKBALL
+ 
+#Lab 2F
+#-------------------------------
+[TEAMALPHA_M,Grunt,3]
+LoseText = This wasn't the last of Team Alpha!
+
+ Pokemon = NICKIT,18
+ Gender  = Female
+ Ball    = DUSKBALL
+#-------------------------------
+[TEAMALPHA_F,Grunt,2]
+LoseText = This wasn't the last of Team Alpha!
+
+ Pokemon = MIGHTYENA,18
+ Gender  = Male
+ Ball    = DUSKBALL
+#-------------------------------
+[TEAMALPHA_M,Grunt,4]
+LoseText = This wasn't the last of Team Alpha!
+
+ Pokemon = NICKIT,17
+ Gender  = Female
+ Ball    = DUSKBALL
+ 
+ Pokemon = NICKIT,17
+ Gender  = Male
+ Ball    = DUSKBALL
+
+#\\ =========== Caelum Battles ========
+
+#-------------------------------
+[ALPHABOSS,Caelum]
+LoseText = This won't end like this!
+
+ Pokemon = MURKROW,18
+ Gender  = Male
+ Ball    = DUSKBALL
+
+ Pokemon = DEINO,18
+ Gender  = Male
+ Ball    = DUSKBALL
+
+ Pokemon = PAWNIARD,22
+ Gender  = Male
+ Ball    = LUXURYBALL
 
 
 #Trainers Battles

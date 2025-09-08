@@ -129,11 +129,23 @@ BattleBack = Cave1
 Flags = Magnetic
 #-------------------------------
 [047]   # Route 7
+Name = Route 7
 Outdoor = true
 ShowArea = true
 BattleBack = Field
 #-------------------------------
 [048]   # Route 8
+Name = Route 8
 Outdoor = true
 ShowArea = true
 BattleBack = Water
+#-------------------------------
+[054]   # Forgotten Chamber
+Name = Forgotten Chamber
+BattleBack = Cave1
+#-------------------------------
+[055]   # Lab 1f
+Name = Blau City
+#-------------------------------
+[056]   # Lab 2f
+Name = Blau City
