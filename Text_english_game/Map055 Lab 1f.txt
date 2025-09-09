@@ -1,0 +1,22 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map055]
+Did y'know theres some Pokémon that don't originate from Earth?
+Did y'know theres some Pokémon that don't originate from Earth?
+I dedicate my life studying those!
+I dedicate my life studying those!
+I've seen many Pokémon, since I traverse trought the sea!
+I've seen many Pokémon, since I traverse trought the sea!
+The marine live is just endless, theres so many Water-type Pokémon!
+The marine live is just endless, theres so many Water-type Pokémon!
+Theres a theory that once upon a time, an super ancient Pokémon brought life to earth.
+Theres a theory that once upon a time, an super ancient Pokémon brought life to earth.
+Starting everything we know.\nHowever, I can't find data anywhere about it's name or registry of it's existence!
+Starting everything we know.\nHowever, I can't find data anywhere about it's name or registry of it's existence!
+Argh, That gym leader is pretty strong!
+Argh, That gym leader is pretty strong!
+TEAM ALPHA!
+TEAM ALPHA!
+...
+...

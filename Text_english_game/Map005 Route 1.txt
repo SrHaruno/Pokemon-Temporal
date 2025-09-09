@@ -1,0 +1,18 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map005]
+\sign[signskin]Trainer Tips!\nIf you ever wanna go back quicker, just jump those ledges, just be aware that it's a one way ledge!\nOnce you jump, you can't jump back!
+\sign[signskin]Trainer Tips!\nIf you ever wanna go back quicker, just jump those ledges, just be aware that it's a one way ledge!\nOnce you jump, you can't jump back!
+I caught a Zigzagoon!\nI heard that a night, a different apparance Zigzagoon appears!
+I caught a Zigzagoon!\nI heard that a night, a different apparance Zigzagoon appears!
+My mom never lets me stay up late.\nSo I never was able to see one!
+My mom never lets me stay up late.\nSo I never was able to see one!
+You seem to be new, if you Pokémon gets low on health use this!
+You seem to be new, if you Pokémon gets low on health use this!
+This heals some of your Pokémon health!
+This heals some of your Pokémon health!
+You can also heal in Pokémon Centers, those red roof buildings!
+You can also heal in Pokémon Centers, those red roof buildings!
+Potions can also be bought at Poke Marts!
+Potions can also be bought at Poke Marts!

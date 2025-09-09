@@ -1,0 +1,6 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map011]
+\sign[signskin]Fistone Cave\nA cave where it's path was made with bare fists!
+Some black belts are finishing opening the cave!\nPlease wait patiently trainer!

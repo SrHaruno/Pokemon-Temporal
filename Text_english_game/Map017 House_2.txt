@@ -1,0 +1,32 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map017]
+Ah, you must be \pn.\nProf.Acacia sent a memo!
+Ah, you must be \pn.\nProf.Acacia sent a memo!
+So, you got it?
+So, you got it?
+\me[Key item get\pn handed the Package.\wtnp[30]
+\me[Key item get\pn handed the Package.\wtnp[30]
+Perfect, this is all I need to finish the research!
+Perfect, this is all I need to finish the research!
+Hand the package!
+Hand the package!
+W-who are you!?
+W-who are you!?
+I am from Team Alpha and that package is of our interest!
+I am from Team Alpha and that package is of our interest!
+Now, hand it now!
+Now, hand it now!
+Think you can beat me kid?\nBwaahahaha!
+Think you can beat me kid?\nBwaahahaha!
+Bah!\nHow could I lose to a pest like you!
+Bah!\nHow could I lose to a pest like you!
+This is not the last you seen of Team Alpha!
+This is not the last you seen of Team Alpha!
+Thank god you where able to stop him \pn.\nYou do really fight like your dad!
+Thank god you where able to stop him \pn.\nYou do really fight like your dad!
+Now, deliver it back to Prof.Acacia, the last touches have been done!
+Now, deliver it back to Prof.Acacia, the last touches have been done!
+Go to Prof.Acacia and deliver it, it's very important!
+Go to Prof.Acacia and deliver it, it's very important!

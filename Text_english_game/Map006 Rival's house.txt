@@ -1,0 +1,8 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map006]
+That's his Pokémon, lets keep it there.
+That's his Pokémon, lets keep it there.
+He's still sleeping.\nBetter not disturb.
+He's still sleeping.\nBetter not disturb.

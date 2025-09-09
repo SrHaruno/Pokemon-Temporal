@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map042]
+\bHello. You must be \PN.
+\bHello. You must be \PN.
+\bI've received a gift for you.\nHere you go!
+\bI've received a gift for you.\nHere you go!
+\bI haven't received any other gifts for you.
+\bI haven't received any other gifts for you.
+\bWe look forward to your next visit.
+\bWe look forward to your next visit.

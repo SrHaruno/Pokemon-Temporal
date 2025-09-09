@@ -1,0 +1,29 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map001]
+Hello!
+You must be the chosen one!
+Chosen one, please answear these questions.
+Are you a boy or a girl?
+Chosen one, what's your name?
+You're \PN?
+What is your name?
+Now.\nThe most important question!
+Theres a bully approaching.\nThey seem to wanna pick a fight with you.
+So, what you would do?
+so, you would \c[7]tank their hits\c[12]?
+Very well, you seem to be very confident on your resilience!
+So, you would try to \c[5]dialogue\c[12] your way out?
+Trying to solve stuff pacificly?\nYou are indeed the chosen one!
+So, you would try resolve the situation by \c[2]fighting\c[12]?
+Ah, a brave one I see.\nYou trust your fighting skills eh?
+Very well, this concludes our sit.\nGo foward chosen one!
+Your help is soon to be needed!
+Boy
+Girl
+Yes
+No
+Tough their hits
+Try to dialogue around
+I'll fight them!

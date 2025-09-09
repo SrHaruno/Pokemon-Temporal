@@ -1,0 +1,120 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map004]
+Prof.Acacia: \pn you shouldn't have trouble finding Knallrot Town.\nJust head north!
+Prof.Acacia: \pn you shouldn't have trouble finding Knallrot Town.\nJust head north!
+Prof.Acacia: So \pn, wanna check your Pokédex?
+Prof.Acacia: So \pn, wanna check your Pokédex?
+Hm...\nHm...
+Hm...\nHm...
+You caught \v[1] Pokémon and saw \v[2] Pokémon.
+You caught \v[1] Pokémon and saw \v[2] Pokémon.
+Keep the hard work \pn!
+Keep the hard work \pn!
+Ok, I can check anytime your progress!
+Ok, I can check anytime your progress!
+Prof.Acacia: Anyway, please go to Rosa City, you can reach by going towards the cave in Knallrot Town.
+Prof.Acacia: Anyway, please go to Rosa City, you can reach by going towards the cave in Knallrot Town.
+Once you reach it, search someon called Saeka.
+Once you reach it, search someon called Saeka.
+If my readigs are right, she's in great danger.
+If my readigs are right, she's in great danger.
+Did you know some Pokémon in Zeitlos region have a different apparence?
+Did you know some Pokémon in Zeitlos region have a different apparence?
+We call them \c[1]regional forms\c[0]!
+We call them \c[1]regional forms\c[0]!
+Like Shroomish and Numel!
+Like Shroomish and Numel!
+\pn!
+\pn!
+Take these to help you filling the dex!
+Take these to help you filling the dex!
+Prof.Acacia: Ah, good to see you \pn!
+Prof.Acacia: Ah, good to see you \pn!
+Your assigment today is to deliver a package in the next town.
+Your assigment today is to deliver a package in the next town.
+I have a friend there that is currently helping me in my latest research.
+I have a friend there that is currently helping me in my latest research.
+He's doing the final touchs and he needs the contents of this package!
+He's doing the final touchs and he needs the contents of this package!
+The place your looking for is called \c[1]Knallrot Town\c[0].\nYou shouldn't find difficulty finding it.
+The place your looking for is called \c[1]Knallrot Town\c[0].\nYou shouldn't find difficulty finding it.
+Just head north and you eventually reach it.
+Just head north and you eventually reach it.
+...\n...
+...\n...
+Ah yes, yes.\nIt's too dangerous to go alone without a Pokémon.
+Ah yes, yes.\nIt's too dangerous to go alone without a Pokémon.
+*sigh*\nI never thought this day would come.
+*sigh*\nI never thought this day would come.
+Your finally ten years old, your father left this with me.\nHe told me to give you when the time came.
+Your finally ten years old, your father left this with me.\nHe told me to give you when the time came.
+Prof.Acacia: Good luck!
+Prof.Acacia: Good luck!
+Prof.Acacia: So, you got it?
+Prof.Acacia: So, you got it?
+\me[Key item get]\pn handed the Package.\wtnp[30]
+\me[Key item get]\pn handed the Package.\wtnp[30]
+Prof.Acacia, great!\n\pn this is what we call a Pokédex!
+Prof.Acacia, great!\n\pn this is what we call a Pokédex!
+It's used to store data from Pokémon you find and capture!
+It's used to store data from Pokémon you find and capture!
+It's has always been my dream to fill this and have a complete encyclopedia.
+It's has always been my dream to fill this and have a complete encyclopedia.
+Eh, have yo useen Stayle?\nHe's supposed to be here.
+Eh, have yo useen Stayle?\nHe's supposed to be here.
+Stayle: Here I am.
+Stayle: Here I am.
+Prof.Acacia: So \pn this is Stayle.\nHe's son from a distant cousin of mine.
+Prof.Acacia: So \pn this is Stayle.\nHe's son from a distant cousin of mine.
+Stayle: Why did you called me, I told you I don't wanna go in a Pokémon journey.
+Stayle: Why did you called me, I told you I don't wanna go in a Pokémon journey.
+It's always the same thing.\nGo on adventure, fill the Pokédex, yada yada.
+It's always the same thing.\nGo on adventure, fill the Pokédex, yada yada.
+So boring, the Pokémon League never innovates?
+So boring, the Pokémon League never innovates?
+What do you mean so people still find it fun?
+What do you mean so people still find it fun?
+Hump!\nThis is why it's stagnated!
+Hump!\nThis is why it's stagnated!
+People still support it even if it was done one hundred times!
+People still support it even if it was done one hundred times!
+Prof.Acacia: Ehehe.\nDon't worry \pn he's been like this since he used diapers ha! ha!
+Prof.Acacia: Ehehe.\nDon't worry \pn he's been like this since he used diapers ha! ha!
+Well I called both of you because we finally finished our Pokédex.
+Well I called both of you because we finally finished our Pokédex.
+Here take it!
+Here take it!
+\me[Key item get]\pn received a Pokédex!\wtnp[30]
+\me[Key item get]\pn received a Pokédex!\wtnp[30]
+Stayle: Bah!\nI knew it.
+Stayle: Bah!\nI knew it.
+Y'know what?\nIm going in my own jorney!
+Y'know what?\nIm going in my own jorney!
+See ya normies!
+See ya normies!
+Prof.Acacia: Hm?\nYou where attacked by someon?
+Prof.Acacia: Hm?\nYou where attacked by someon?
+Team Alpha?
+Team Alpha?
+Oh no.
+Oh no.
+Listen \pn, I know I sent you to a journey to fill the dex.
+Listen \pn, I know I sent you to a journey to fill the dex.
+But Im not getting a good feeling out of this.
+But Im not getting a good feeling out of this.
+Please go to \c[1]Rosa City\c[0]\nYou can easily reach trought a cave in Knallrot Town.
+Please go to \c[1]Rosa City\c[0]\nYou can easily reach trought a cave in Knallrot Town.
+There should be someon called \c[1]Saeka\c[0].
+There should be someon called \c[1]Saeka\c[0].
+If my readings are right, she is in grave danger right now.
+If my readings are right, she is in grave danger right now.
+You can use this opportunity to also gather while traveling towars Rosafarben City.
+You can use this opportunity to also gather while traveling towars Rosafarben City.
+Safe travels \pn.
+Safe travels \pn.
+Yes
+Yes
+No
+No

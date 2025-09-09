@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map002]
+\sign[signskin]Anfang Town\nA place where hopes start!
+\sign[signskin]Anfang Town\nA place where hopes start!
+Professor Acacia was looking for you \pn\nHe has a new assigment for you!
+Professor Acacia was looking for you \pn\nHe has a new assigment for you!
+Wait \pn, Professor Acacia was looking for you!
+Wait \pn, Professor Acacia was looking for you!
+Also, you still don't have a Pokémon, so it's dangerous to go out alone!
+Also, you still don't have a Pokémon, so it's dangerous to go out alone!

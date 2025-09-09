@@ -1,0 +1,52 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map027]
+Grunt 1: Quick, give us all the research data!
+Grunt 1: Quick, give us all the research data!
+They talked about Knallrot Town didn't they?\nI have a mate there also researching time travelling.
+They talked about Knallrot Town didn't they?\nI have a mate there also researching time travelling.
+If my and Acacia predictions are right, they probably want somenthing with the \c[1]time travelling\c[0] data.
+If my and Acacia predictions are right, they probably want somenthing with the \c[1]time travelling\c[0] data.
+\pn, please head up to Blau City.\nI have some AIDES there that where meant to get a part for our machine.
+\pn, please head up to Blau City.\nI have some AIDES there that where meant to get a part for our machine.
+You should be able to reach there trough \c[1]Route 3\c[0].
+You should be able to reach there trough \c[1]Route 3\c[0].
+Grunt 1: God dang it, we were beaten!
+Grunt 1: God dang it, we were beaten!
+Grunt 2: C'mon lets retreat!
+Grunt 2: C'mon lets retreat!
+???: Thanks, you saved me.
+???: Thanks, you saved me.
+You are?
+You are?
+...\n...
+...\n...
+Oh!\nSo you are \pn that I heard about.
+Oh!\nSo you are \pn that I heard about.
+I am Professor Saeka!
+I am Professor Saeka!
+Prof.Saeka: I study the space and time.
+Prof.Saeka: I study the space and time.
+Professor Acacia sent you?
+Professor Acacia sent you?
+Well Im glad he noticed I was in grave danger Ha! Ha!
+Well Im glad he noticed I was in grave danger Ha! Ha!
+What was so important about the research?
+What was so important about the research?
+Well, we just finished testing our \c[1]time travelling\c[0] machine.
+Well, we just finished testing our \c[1]time travelling\c[0] machine.
+When those Team Alpha guys showed up.
+When those Team Alpha guys showed up.
+You will probably need this.
+You will probably need this.
+With this you can use \c[1]Cut\c[0] on those trees that block your path.
+With this you can use \c[1]Cut\c[0] on those trees that block your path.
+Grunt 2: You must be the little brat that disturbed our plans back in Knallrot Town.
+Grunt 2: You must be the little brat that disturbed our plans back in Knallrot Town.
+I'll teach you a lesson to not mess with Team Alpha!
+I'll teach you a lesson to not mess with Team Alpha!
+Grunt 1: What do you want?\nWe are dealing with very Important stuff right now!
+Grunt 1: What do you want?\nWe are dealing with very Important stuff right now!
+I'll just get rid of you quickly.
+I'll just get rid of you quickly.

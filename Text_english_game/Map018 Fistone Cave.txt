@@ -1,0 +1,10 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map018]
+Hayaa!
+Hayaa!
+...
+...
+This cave was once made with human fist!
+This cave was once made with human fist!

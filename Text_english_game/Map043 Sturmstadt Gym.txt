@@ -1,0 +1,32 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map043]
+My flying-type will go with the wind of victory!
+My flying-type will go with the wind of victory!
+...
+...
+Thinking you can skip a battle?
+Thinking you can skip a battle?
+Skyler likes to use Flying-type Pokémon!\nElectric- and Rock-type would do a mark on his team!
+Skyler likes to use Flying-type Pokémon!\nElectric- and Rock-type would do a mark on his team!
+However, Fighting-, Grass- and Bug-type will have a tought time!
+However, Fighting-, Grass- and Bug-type will have a tought time!
+One extra thing trainer!\nSkyler loves the breeze, so all battles here have \c[1]Tailwind\c[0].
+One extra thing trainer!\nSkyler loves the breeze, so all battles here have \c[1]Tailwind\c[0].
+Meaning, all Pokémon on opposite side will move faster!
+Meaning, all Pokémon on opposite side will move faster!
+Welcome to Sturmstadt City gym!
+Welcome to Sturmstadt City gym!
+Take this, might help you!
+Take this, might help you!
+These winds are though for ya?
+These winds are though for ya?
+Hi, Im skyler and I love flying-type!
+Hi, Im skyler and I love flying-type!
+\me[Badge get]You've earned the Sky Badge. \wtnp[110]
+\me[Badge get]You've earned the Sky Badge. \wtnp[110]
+Here, have this TM too.
+Here, have this TM too.
+Your gonna feel the breeze of defeat!
+Your gonna feel the breeze of defeat!

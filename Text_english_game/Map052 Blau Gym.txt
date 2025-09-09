@@ -1,0 +1,54 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map052]
+I love battling in the rain!
+I love battling in the rain!
+...
+...
+You set sail into battle just to lose!
+You set sail into battle just to lose!
+The gym leader is Jake, he loves Water-type Pokémon!
+The gym leader is Jake, he loves Water-type Pokémon!
+Grass- and Electric-type would do wonders here!
+Grass- and Electric-type would do wonders here!
+However, using Fire-, Rock- and Ground-types is a sure way to guarantee your defeat!
+However, using Fire-, Rock- and Ground-types is a sure way to guarantee your defeat!
+Even more since Jake likes use \c[1]Rain\c[0]in his battles!
+Even more since Jake likes use \c[1]Rain\c[0]in his battles!
+In rain, Water-type moves get very strong, while Fire-type get very weak!
+In rain, Water-type moves get very strong, while Fire-type get very weak!
+Welcome to Blau City gym!
+Welcome to Blau City gym!
+Take this, might help you!
+Take this, might help you!
+I think I saw once a Pokémon made out of Atomic stuff!
+I think I saw once a Pokémon made out of Atomic stuff!
+Do you think you gonna just walk towards the leader without a battle?
+Do you think you gonna just walk towards the leader without a battle?
+Im Jake and I master the Water-type Pokémon!
+Im Jake and I master the Water-type Pokémon!
+\me[Badge get]You've earned the Wave Badge. \wtnp[110]
+\me[Badge get]You've earned the Wave Badge. \wtnp[110]
+Here, have this TM too.
+Here, have this TM too.
+Hey thanks for helping there.
+Hey thanks for helping there.
+That research lab was founded by my dad, it means alot to me!
+That research lab was founded by my dad, it means alot to me!
+I keep it safe while he still travels the sea!
+I keep it safe while he still travels the sea!
+JAKEEE!
+JAKEEE!
+MARINE\NRESEARCH\NATTACK!
+MARINE\NRESEARCH\NATTACK!
+Jake: Breath first.
+Jake: Breath first.
+T-the Marine Reasearch lab is under attack!
+T-the Marine Reasearch lab is under attack!
+Jake: What?\nIm on my way!
+Jake: What?\nIm on my way!
+Trainer you should go aswell!
+Trainer you should go aswell!
+Im gonna wash you away!
+Im gonna wash you away!

@@ -1,0 +1,10 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map054]
+Seems like this caves has runes around it.
+Seems like this caves has runes around it.
+We are trying to decipher them, most say about this whole grove becoming a dead place.
+We are trying to decipher them, most say about this whole grove becoming a dead place.
+But it can't be true, why would this beautiful grove just suddenly die and become desertic?
+But it can't be true, why would this beautiful grove just suddenly die and become desertic?
