@@ -16,7 +16,7 @@ HealingSpot = 3,5,5
 Name = Route 1
 Outdoor = true
 ShowArea = true
-BattleBack = Field
+BattleBack = grass
 #-------------------------------
 [011]   # Knallrot Town
 Name = Knallrot Town
@@ -36,25 +36,25 @@ Name = Knallrot Town
 Name = Fistone Cave
 ShowArea = true
 Bicycle = true
-BattleBack = Cave1
+BattleBack = cave
 #-------------------------------
 [019]   # Route 2
 Name = Route 2
 Outdoor = true
 ShowArea = true
-BattleBack = Field
+BattleBack = grass
 #-------------------------------
 [020]   # Rosa City
 Name = Rosa City
 Outdoor = true
 ShowArea = true
-BattleBack = Field
+BattleBack = grass
 #-------------------------------
 [021]   # Route 3
 Name = Route 3
 Outdoor = true
 ShowArea = true
-BattleBack = Field
+BattleBack = grass
 #-------------------------------
 [028]   # Rosa Forest
 Name = Rosa Forest
@@ -66,7 +66,7 @@ BattleBack = Forest
 Name = Fated Grove
 Outdoor = true
 ShowArea = true
-BattleBack = Field
+BattleBack = grass
 #-------------------------------
 [030]   # Route 4 Gate
 Name = Route 4 Gate
@@ -76,13 +76,13 @@ Bicycle = true
 Name = Route 4
 Outdoor = true
 ShowArea = true
-BattleBack = Field
+BattleBack = grass
 #-------------------------------
 [032]   # Route 5
 Name = Route 5
 Outdoor = true
 ShowArea = true
-BattleBack = Water
+BattleBack = water
 #-------------------------------
 [033]   # Ziel Town
 Name = Ziel Town
@@ -98,7 +98,7 @@ ShowArea = true
 Name = Route 6
 Outdoor = true
 ShowArea = true
-BattleBack = Field
+BattleBack = grass
 #-------------------------------
 [036]   # Route 6 Gate
 Name = Route 6 Gate
@@ -113,36 +113,36 @@ ShowArea = true
 Name = Blitzhohle Cave
 ShowArea = true
 Bicycle = true
-BattleBack = Cave1
+BattleBack = cave
 Flags = Magnetic
 #-------------------------------
 [045]   # Blitzhohle Cave [2F]
 Name = Blitzhohle Cave [2F]
 Bicycle = true
-BattleBack = Cave1
+BattleBack = cave
 Flags = Magnetic
 #-------------------------------
 [046]   # Blitzhohle Cave [3F]
 Name = Blitzhohle Cave [3F]
 Bicycle = true
-BattleBack = Cave1
+BattleBack = cave
 Flags = Magnetic
 #-------------------------------
 [047]   # Route 7
 Name = Route 7
 Outdoor = true
 ShowArea = true
-BattleBack = Field
+BattleBack = grass
 #-------------------------------
 [048]   # Route 8
 Name = Route 8
 Outdoor = true
 ShowArea = true
-BattleBack = Water
+BattleBack = water
 #-------------------------------
 [054]   # Forgotten Chamber
 Name = Forgotten Chamber
-BattleBack = Cave1
+BattleBack = cave
 #-------------------------------
 [055]   # Lab 1f
 Name = Blau City

@@ -1,6 +1,0 @@
-Name       = Emerald Summary Screen
-Version    = 2.0
-Essentials = 21.1
-Requires   = Modular UI Scenes, 2.0.3
-Optional   = Enhanced Pokemon UI, 1.0.3
-Credits    = Shashu-Greninja, Previous
