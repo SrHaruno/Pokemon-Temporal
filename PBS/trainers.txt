@@ -9,7 +9,7 @@ LoseText = You fight like everyone else!
   Gender = Male
    Form  = 1
 
- Pokemon = TIMBURR,11
+ Pokemon = TIMBURR,9
   Gender = Male
 #-------------------------------
 [RIVAL1,Stayle,2] #Player has Ralts
@@ -19,7 +19,7 @@ LoseText = You fight like everyone else!
   Gender = Male
   Form   = 1
 
- Pokemon = ARON,11
+ Pokemon = ARON,9
   Gender = Male
 #-------------------------------
 [RIVAL1,Stayle,3] #Player has Timburr
@@ -29,7 +29,7 @@ LoseText = You fight like everyone else!
   Gender = Male
   Form   = 1
 
- Pokemon = RALTS,11
+ Pokemon = RALTS,9
   Gender = Female
 
 
