@@ -5,10 +5,10 @@ StartMoney = 3000
 StartItemStorage = POTION
 Home = 3,5,5,8
 StorageCreator = Bill
-WildBattleBGM = Battle wild
-TrainerBattleBGM = Battle trainer
-WildVictoryBGM = Battle victory wild
-TrainerVictoryBGM = Battle victory trainer
+WildBattleBGM = Battle! Wild Pokémon
+TrainerBattleBGM = Battle! Trainer
+WildVictoryBGM = Victory! Wild Pokémon
+TrainerVictoryBGM = Victory! Trainer
 SurfBGM = Surfing
 BicycleBGM = Bicycle
 #-------------------------------

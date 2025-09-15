@@ -24,11 +24,13 @@ BaseMoney = 60
 Name = Rival
 Gender = Male
 BaseMoney = 16
+BattleBGM = Battle! Rival
 #-------------------------------
 [RIVAL2]
 Name = Rival
 Gender = Male
 BaseMoney = 36
+BattleBGM = Battle! Rival
 #-------------------------------
 [AROMALADY]
 Name = Aroma Lady
@@ -313,8 +315,8 @@ BaseMoney = 100
 Name = Gym Leader
 Gender = Female
 BaseMoney = 100
-BattleBGM = Battle Gym Leader
-VictoryBGM = Battle victory leader
+BattleBGM = Battle! Gym Leader
+VictoryBGM = Victory! Gym Leader
 #-------------------------------
 [LEADER_Skyler]
 Name = Gym Leader
