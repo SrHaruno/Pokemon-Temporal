@@ -192,15 +192,23 @@ class Battle::Scene::PokemonDataBox < Sprite
 
   def x=(value)
     super
-    @hpBar.x     = value + @spriteBaseX + 102
-    @expBar.x    = value + @spriteBaseX + 28
-    @hpNumbers.x = value + @spriteBaseX + 80
+    if ((@battler.index%2)) == 0
+		@hpBar.x     = value + @spriteBaseX + 112 #102
+    else
+    @hpBar.x     = value + @spriteBaseX + 102 #102
+   end
+	@expBar.x    = value + @spriteBaseX + 40  #28
+    @hpNumbers.x = value + @spriteBaseX + 88  #80
   end
 
   def y=(value)
     super
-    @hpBar.y     = value + 40
-    @expBar.y    = value + 78
-    @hpNumbers.y = value + 52
+    if ((@battler.index%2)) == 0
+     @hpBar.y     = value + 48 #Player Side
+	else
+    @hpBar.y     = value + 40 #40
+   end
+    @expBar.y    = value + 78 #78
+    @hpNumbers.y = value + 56 #52
   end
 end
