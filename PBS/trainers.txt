@@ -54,11 +54,11 @@ Items    = POTION
  Moves   = STUNSPORE,STRUGGLEBUG,FAIRYWIND,SAFEGUARD
  Ball    = LOVEBALL
  
- Pokemon = SPRITZEE,10
+ Pokemon = SNUBBULL,10
+ Ability = INTIMIDATE
   Gender = Female
-  Moves  = DRAININGKISS,ECHOEDVOICE,PROTECT,SWEETKISS
+  Moves  = BITE,CHARM,SCARYFACE
   Ball   = LOVEBALL
-  Item   = ORANBERRY
 
 
 #Sturmstadt City Gym
@@ -84,22 +84,22 @@ LoseText = You are an ace in the air!
 
 #-------------------------------
 [LEADER_Skyler,Skyler]
-LoseText = My My! Your really strong!
+LoseText = Your pokémon cut trought my wind!
 Items    = SUPERPOTION
 
- Pokemon = MURKROW,16
+ Pokemon = WINGULL,16
  Gender  = Male
- Moves   = WINGATTACK,NIGHTSHADE,TAILWIND
+ Moves   = WINGATTACK,SUPERSONIC,WATERGUN
  Ball    = DUSKBALL
 
- Pokemon = PIDGEY,16
+ Pokemon = ZUBAT,16
  Gender  = Female
- Moves   = WINGATTACK,QUICKATTACK,TAILWIND
- Ball    = FASTBALL
+ Moves   = POISONFANG,WINGATTACK,MEANLOOK,SUPERSONIC
+ Ball    = DUSKBALL
  
  Pokemon = STARAVIA,18
   Gender = Male
-  Moves  = WINGATTACK,QUICKATTACK,TAILWIND
+  Moves  = WINGATTACK,QUICKATTACK,DOUBLETEAM
   Ball   = QUICKBALL
   Item   = ORANBERRY
   
@@ -154,9 +154,9 @@ Items    = SUPERPOTION,SUPERPOTION
   Ball   = DIVEBALL
   Item   = DAMPROCK
   
- Pokemon = ARROKUDA,21
+ Pokemon = GYARADOS,21
   Gender = Male
-  Moves  = AQUAJET,BITE
+  Moves  = BITE,WATERPULSE,ICEFANG
   Ball   = DIVEBALL
   Item   = SITRUSBERRY
 
@@ -235,6 +235,7 @@ LoseText = This wasn't the last of Team Alpha!
 
 #\\ =========== Caelum Battles ========
 
+#Marine Research Lab
 #-------------------------------
 [ALPHABOSS,Caelum]
 LoseText = This won't end like this!
