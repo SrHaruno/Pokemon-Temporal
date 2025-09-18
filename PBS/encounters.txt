@@ -176,6 +176,13 @@ Cave,5
 	20,TRAPINCH,10,12
 	10,GIBLE,11
 #-------------------------------
+[065] # Comet Cave
+Cave,5
+	40,WOOBAT,12,14
+	30,CLEFAIRY,12,13
+	20,MINIOR,10,12
+	10,ABRA,13
+#-------------------------------
 [044] # Blitzhohle Cave [1F]
 Cave,5
 	40,WOOBAT,14,16

@@ -7,6 +7,7 @@ Name = Intro
 Name = Anfang Town
 Outdoor = true
 ShowArea = true
+MapPosition = 0,15,14
 #-------------------------------
 [003]   # Player's house
 Name = Anfang Town
@@ -16,12 +17,14 @@ HealingSpot = 3,5,5
 Name = Route 1
 Outdoor = true
 ShowArea = true
+MapPosition = 0,15,13
 BattleBack = grass
 #-------------------------------
 [011]   # Knallrot Town
 Name = Knallrot Town
 Outdoor = true
 ShowArea = true
+MapPosition = 0,15,12
 #-------------------------------
 [013]   # Knallrot PC
 Name = Knallrot Town
@@ -36,36 +39,45 @@ Name = Knallrot Town
 Name = Fistone Cave
 ShowArea = true
 Bicycle = true
+MapPosition = 0,15,11
 BattleBack = cave
 #-------------------------------
 [019]   # Route 2
 Name = Route 2
 Outdoor = true
 ShowArea = true
+MapPosition = 0,15,10
 BattleBack = grass
 #-------------------------------
 [020]   # Rosa City
 Name = Rosa City
 Outdoor = true
 ShowArea = true
+MapPosition = 0,14,9
 BattleBack = grass
+MapSize = 2,1100
 #-------------------------------
 [021]   # Route 3
 Name = Route 3
 Outdoor = true
 ShowArea = true
+MapPosition = 0,16,9
 BattleBack = grass
+MapSize = 3,111000000
 #-------------------------------
 [028]   # Rosa Forest
 Name = Rosa Forest
 Outdoor = true
 ShowArea = true
+MapPosition = 0,16,8
 BattleBack = Forest
+MapSize = 2,1100
 #-------------------------------
 [029]   # Fated Grove
 Name = Fated Grove
 Outdoor = true
 ShowArea = true
+MapPosition = 0,18,9
 BattleBack = grass
 #-------------------------------
 [030]   # Route 4 Gate
@@ -76,29 +88,36 @@ Bicycle = true
 Name = Route 4
 Outdoor = true
 ShowArea = true
+MapPosition = 0,19,9
 BattleBack = grass
 #-------------------------------
 [032]   # Route 5
 Name = Route 5
 Outdoor = true
 ShowArea = true
+MapPosition = 0,19,10
 BattleBack = water
 #-------------------------------
 [033]   # Ziel Town
 Name = Ziel Town
 Outdoor = true
 ShowArea = true
+MapPosition = 0,19,6
+MapSize = 2,1010
 #-------------------------------
 [034]   # Challangers Path
 Name = Challangers Path
 Outdoor = true
 ShowArea = true
+MapPosition = 0,20,7
 #-------------------------------
 [035]   # Route 6
 Name = Route 6
 Outdoor = true
 ShowArea = true
+MapPosition = 0,19,5
 BattleBack = grass
+MapSize = 2,1010
 #-------------------------------
 [036]   # Route 6 Gate
 Name = Route 6 Gate
@@ -108,23 +127,28 @@ Bicycle = true
 Name = Sturmstadt City
 Outdoor = true
 ShowArea = true
+MapPosition = 0,17,5
+MapSize = 2,1100
 #-------------------------------
 [044]   # Blitzhohle Cave [1F]
 Name = Blitzhohle Cave
 ShowArea = true
 Bicycle = true
+MapPosition = 0,17,4
 BattleBack = cave
 Flags = Magnetic
 #-------------------------------
 [045]   # Blitzhohle Cave [2F]
 Name = Blitzhohle Cave [2F]
 Bicycle = true
+MapPosition = 0,17,4
 BattleBack = cave
 Flags = Magnetic
 #-------------------------------
 [046]   # Blitzhohle Cave [3F]
 Name = Blitzhohle Cave [3F]
 Bicycle = true
+MapPosition = 0,17,4
 BattleBack = cave
 Flags = Magnetic
 #-------------------------------
@@ -132,16 +156,25 @@ Flags = Magnetic
 Name = Route 7
 Outdoor = true
 ShowArea = true
+MapPosition = 0,26,10
 BattleBack = grass
 #-------------------------------
 [048]   # Route 8
 Name = Route 8
 Outdoor = true
 ShowArea = true
+MapPosition = 0,27,9
 BattleBack = water
+MapSize = 2,1010
+#-------------------------------
+[049]   # Blau City
+Name = Blau City
+MapPosition = 0,27,8
+MapSize = 2,1100
 #-------------------------------
 [054]   # Forgotten Chamber
 Name = Forgotten Chamber
+MapPosition = 0,18,9
 BattleBack = cave
 #-------------------------------
 [055]   # Lab 1f
@@ -149,3 +182,9 @@ Name = Blau City
 #-------------------------------
 [056]   # Lab 2f
 Name = Blau City
+#-------------------------------
+[065]   # Comet Cave
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,9
+BattleBack = cave

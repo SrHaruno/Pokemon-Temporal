@@ -4231,26 +4231,20 @@ ShadowX = 0
 ShadowSize = 1
 #-------------------------------
 [HONEDGE]
-BackSprite = 0,48
+BackSprite = 0,0
 FrontSprite = 1,18
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
 [DOUBLADE]
-BackSprite = 8,52
+BackSprite = 8,0
 FrontSprite = 0,12
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
 [AEGISLASH]
-BackSprite = 0,50
+BackSprite = 0,0
 FrontSprite = 5,7
-ShadowX = 0
-ShadowSize = 2
-#-------------------------------
-[AEGISLASH,1]
-BackSprite = 0,57
-FrontSprite = 5,9
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------

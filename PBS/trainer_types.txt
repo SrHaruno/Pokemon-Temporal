@@ -10,16 +10,6 @@ Name = Pokémon Trainer
 Gender = Female
 BaseMoney = 60
 #-------------------------------
-[POKEMONTRAINER_Brendan]
-Name = Pokémon Trainer
-Gender = Male
-BaseMoney = 60
-#-------------------------------
-[POKEMONTRAINER_May]
-Name = Pokémon Trainer
-Gender = Female
-BaseMoney = 60
-#-------------------------------
 [RIVAL1]
 Name = Rival
 Gender = Male
@@ -300,11 +290,13 @@ SkillLevel = 32
 Name = Team Alpha
 Gender = Male
 BaseMoney = 32
+BattleBGM = Battle! Alpha Grunt
 #-------------------------------
 [TEAMALPHA_F]
 Name = Team Alpha
 Gender = Female
 BaseMoney = 32
+BattleBGM = Battle! Alpha Grunt
 #-------------------------------
 [ALPHABOSS]
 Name = Team Alpha Admin
@@ -374,12 +366,13 @@ BaseMoney = 100
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
 #-------------------------------
-[ELITEFOUR_Bruno]
-Name = Elite Four
+[SUPERTRAINER_Balboa]
+Name = Super Trainer
 Gender = Male
 BaseMoney = 100
-BattleBGM = Battle Elite
-VictoryBGM = Battle victory leader
+SkillLevel = 100
+BattleBGM = Battle! Gym Leader
+VictoryBGM = Victory! Gym Leader
 #-------------------------------
 [ELITEFOUR_Agatha]
 Name = Elite Four

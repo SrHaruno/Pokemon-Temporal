@@ -33,7 +33,7 @@ LoseText = You fight like everyone else!
   Gender = Female
 
 
-#Gyms
+#\\ =========== Gym Battles ===========
 
 #Rosa City Gym
 #-------------------------------
@@ -161,7 +161,7 @@ Items    = SUPERPOTION,SUPERPOTION
   Item   = SITRUSBERRY
 
 
-#\\ =========== Team Alpha Battles ========
+#\\ =========== Team Alpha Battles ===========
 
 #Knallrot Town
 #-------------------------------
@@ -233,7 +233,7 @@ LoseText = This wasn't the last of Team Alpha!
  Gender  = Male
  Ball    = DUSKBALL
 
-#\\ =========== Caelum Battles ========
+#\\ =========== Caelum Battles ===========
 
 #Marine Research Lab
 #-------------------------------
@@ -253,7 +253,30 @@ LoseText = This won't end like this!
  Ball    = LUXURYBALL
 
 
-#Trainers Battles
+#\\ =========== Super Trainers ===========
+
+#Challanger Path
+#-------------------------------
+[SUPERTRAINER_Balboa,Balboa]
+LoseText = You are strong!
+
+ Pokemon = PANCHAM,14
+ Gender  = Male
+ Ball    = ULTRABALL
+ Moves   = CIRCLETHROW,ROCKTOMB,TAUNT
+ 
+ Pokemon = HERACROSS,14
+  Gender = Female
+  Ball   = ULTRABALL
+  Moves  = AERIALACE,ENDURE,LEER
+ 
+ Pokemon = MAKUHITA,16
+  Gender = Male
+  Ball   = ULTRABALL
+  Moves  = WHIRLWIND,FAKEOUT,FORCEPALM,ROCKTOMB
+  Item   = SITRUSBERRY
+
+#\\ =========== Trainers Battles ===========
 
 #Dripstone Cave
 #-------------------------------
@@ -303,3 +326,35 @@ LoseText = I got silk in my mouth!
 [LASS,Jasmine]
 LoseText = Eek! I hate bugs!
  Pokemon = PIKACHU,12
+ 
+ 
+#Fated Grove
+#-------------------------------
+[YOUNGSTER,Edwin]
+LoseText = My team!
+ Pokemon = STARLY,12
+#-------------------------------
+[PSYCHIC_F,Rei]
+LoseText = This place has a terrible fate!
+ Pokemon = GASTLY,11
+ Pokemon = PHANTUMP,11
+ Pokemon = SHUPPET,11
+ Pokemon = MISDREAVUS,11
+#-------------------------------
+[YOUNGCOUPLE, Stephany & Lucios]
+LoseText = Our Love will be eternal!
+ Pokemon = FOMANTIS,12
+ Pokemon = DEERLING,12
+#-------------------------------
+[LASS,Sabrina]
+LoseText = My babies!
+ Pokemon = BUDEW,11
+ Pokemon = DEERLING,11
+ 
+#Route 4
+#-------------------------------
+[BLACKBELT,Hiroshi]
+LoseText = Take that, hayaaaa!
+ Pokemon = MAKUHITA,13
+ Pokemon = RIOLU,13
+ 
