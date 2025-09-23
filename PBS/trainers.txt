@@ -358,3 +358,23 @@ LoseText = Take that, hayaaaa!
  Pokemon = MAKUHITA,13
  Pokemon = RIOLU,13
  
+#Route 6
+#-------------------------------
+[LASS,Misato]
+LoseText = Buaaaa!
+ Pokemon = MAREEP,16
+#-------------------------------
+[PICNICKER,Haruka]
+LoseText = Welp!
+ Pokemon = MAREEP,15
+ Pokemon = LECHONK,15
+#-------------------------------
+[CAMPER,Scott]
+LoseText = Oh noes!
+ Pokemon = MUDBRAY,16
+#-------------------------------
+[BIRDKEEPER,Courage]
+LoseText = My wings where cut mid fight!
+ Pokemon = STARLY,15
+ Pokemon = PIDGEY,15
+ Pokemon = WINGULL,15
