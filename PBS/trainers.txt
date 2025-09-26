@@ -5,32 +5,50 @@
 [RIVAL1,Stayle,1] #Player has Aron
 LoseText = You fight like everyone else!
 
- Pokemon = ZORUA,8
+ Pokemon = ZORUA,12
   Gender = Male
    Form  = 1
+  Moves  = SHADOWSNEAK,HONECLAWS,TORMENT,LEER
 
- Pokemon = TIMBURR,9
+ Pokemon = PIKACHU,12
   Gender = Male
+  Moves  = THUNDERSHOCK,QUICKATTACK,NASTYPLOT,THUNDERWAVE
+
+ Pokemon = TIMBURR,14
+  Gender = Male
+  Moves  = LOWKICK,ROCKTHROW,FOCUSENERGY
 #-------------------------------
 [RIVAL1,Stayle,2] #Player has Ralts
 LoseText = You fight like everyone else!
 
- Pokemon = ZORUA,8
+ Pokemon = ZORUA,12
   Gender = Male
-  Form   = 1
+   Form  = 1
+  Moves  = SHADOWSNEAK,HONECLAWS,TORMENT,LEER
 
- Pokemon = ARON,9
+ Pokemon = PIKACHU,12
   Gender = Male
+  Moves  = THUNDERSHOCK,QUICKATTACK,NASTYPLOT,THUNDERWAVE
+
+ Pokemon = ARON,14
+  Gender = Male
+  Moves  = METALCLAW,ROCKTOMB,HARDEN
 #-------------------------------
 [RIVAL1,Stayle,3] #Player has Timburr
 LoseText = You fight like everyone else!
 
- Pokemon = ZORUA,8
+ Pokemon = ZORUA,12
   Gender = Male
-  Form   = 1
+   Form  = 1
+  Moves  = SHADOWSNEAK,HONECLAWS,TORMENT,LEER
+  
+ Pokemon = PIKACHU,12
+  Gender = Male
+  Moves  = THUNDERSHOCK,QUICKATTACK,NASTYPLOT,THUNDERWAVE
 
- Pokemon = RALTS,9
+ Pokemon = RALTS,14
   Gender = Female
+  Moves  = DRAININGKISS,CONFUSION,HYPNOSIS
 
 
 #\\ =========== Gym Battles ===========

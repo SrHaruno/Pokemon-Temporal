@@ -26,6 +26,7 @@ BattleBGM = Battle! Rival
 Name = Aroma Lady
 Gender = Female
 BaseMoney = 32
+IntroBGM = Trainer Eyes Meet! Lass
 #-------------------------------
 [BEAUTY]
 Name = Beauty
@@ -41,11 +42,13 @@ BaseMoney = 32
 Name = Bird Keeper
 Gender = Male
 BaseMoney = 32
+IntroBGM = Trainer Eyes Meet! Cooltrainer
 #-------------------------------
 [BUGCATCHER]
 Name = Bug Catcher
 Gender = Male
 BaseMoney = 16
+IntroBGM = Trainer Eyes Meet! Youngster
 #-------------------------------
 [BURGLAR]
 Name = Burglar
@@ -88,6 +91,7 @@ BaseMoney = 72
 Name = Hiker
 Gender = Male
 BaseMoney = 32
+IntroBGM = Trainer Eyes Meet! Hiker
 #-------------------------------
 [JUGGLER]
 Name = Juggler
@@ -154,41 +158,49 @@ BaseMoney = 40
 Name = Black Belt
 Gender = Male
 BaseMoney = 32
+IntroBGM = Trainer Eyes Meet! Cooltrainer
 #-------------------------------
 [CRUSHGIRL]
 Name = Crush Girl
 Gender = Female
 BaseMoney = 24
+IntroBGM = Trainer Eyes Meet! Cooltrainer
 #-------------------------------
 [CAMPER]
 Name = Camper
 Gender = Male
 BaseMoney = 16
+IntroBGM = Trainer Eyes Meet! Cooltrainer
 #-------------------------------
 [PICNICKER]
 Name = Picnicker
 Gender = Female
 BaseMoney = 16
+IntroBGM = Trainer Eyes Meet! Cooltrainer
 #-------------------------------
 [COOLTRAINER_M]
 Name = Cool Trainer
 Gender = Male
 BaseMoney = 60
+IntroBGM = Trainer Eyes Meet! Cooltrainer
 #-------------------------------
 [COOLTRAINER_F]
 Name = Cool Trainer
 Gender = Female
 BaseMoney = 60
+IntroBGM = Trainer Eyes Meet! Cooltrainer
 #-------------------------------
 [YOUNGSTER]
 Name = Youngster
 Gender = Male
 BaseMoney = 16
+IntroBGM = Trainer Eyes Meet! Youngster
 #-------------------------------
 [LASS]
 Name = Lass
 Gender = Female
 BaseMoney = 16
+IntroBGM = Trainer Eyes Meet! Lass
 #-------------------------------
 [POKEMONRANGER_M]
 Name = Pokémon Ranger
@@ -204,11 +216,13 @@ BaseMoney = 60
 Name = Psychic
 Gender = Male
 BaseMoney = 32
+IntroBGM = Trainer Eyes Meet! Cooltrainer
 #-------------------------------
 [PSYCHIC_F]
 Name = Psychic
 Gender = Female
 BaseMoney = 32
+IntroBGM = Trainer Eyes Meet! Cooltrainer
 #-------------------------------
 [SWIMMER_M]
 Name = Swimmer

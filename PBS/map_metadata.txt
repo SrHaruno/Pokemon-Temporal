@@ -19,6 +19,7 @@ Outdoor = true
 ShowArea = true
 MapPosition = 0,15,13
 BattleBack = grass
+MapSize = 1,1
 #-------------------------------
 [011]   # Knallrot Town
 Name = Knallrot Town
@@ -184,6 +185,7 @@ Name = Blau City
 Name = Blau City
 #-------------------------------
 [065]   # Comet Cave
+Name = Comet Cave
 ShowArea = true
 Bicycle = true
 MapPosition = 0,20,9
