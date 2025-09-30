@@ -29,6 +29,7 @@ MapPosition = 0,15,12
 #-------------------------------
 [013]   # Knallrot PC
 Name = Knallrot Town
+MapPosition = 0,15,12
 #-------------------------------
 [016]   # House_1
 Name = Knallrot Town
@@ -65,6 +66,10 @@ ShowArea = true
 MapPosition = 0,16,9
 BattleBack = grass
 MapSize = 3,111000000
+#-------------------------------
+[022]   # Rosa City PC
+Name = Rosa City
+MapPosition = 0,15,9
 #-------------------------------
 [028]   # Rosa Forest
 Name = Rosa Forest
@@ -131,6 +136,14 @@ ShowArea = true
 MapPosition = 0,17,5
 MapSize = 2,1100
 #-------------------------------
+[039]   # Ziel Town  PC
+Name = Ziel Town
+MapPosition = 0,19,8
+#-------------------------------
+[040]   # Sturmstadt City PC
+Name = Sturmstadt City
+MapPosition = 0,17,5
+#-------------------------------
 [044]   # Blitzhohle Cave [1F]
 Name = Blitzhohle Cave
 ShowArea = true
@@ -172,6 +185,10 @@ MapSize = 2,1010
 Name = Blau City
 MapPosition = 0,27,8
 MapSize = 2,1100
+#-------------------------------
+[050]   # Blau City PC
+Name = Blau City
+MapPosition = 0,27,8
 #-------------------------------
 [054]   # Forgotten Chamber
 Name = Forgotten Chamber

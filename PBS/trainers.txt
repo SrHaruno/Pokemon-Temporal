@@ -281,18 +281,23 @@ LoseText = You are strong!
  Pokemon = PANCHAM,14
  Gender  = Male
  Ball    = ULTRABALL
- Moves   = CIRCLETHROW,ROCKTOMB,TAUNT
+ Moves   = CIRCLETHROW,ROCKTOMB,TAUNT,BULKUP
  
- Pokemon = HERACROSS,14
-  Gender = Female
+ Pokemon = THROH,14
+ Ability = GUTS
   Ball   = ULTRABALL
-  Moves  = AERIALACE,ENDURE,LEER
+  Moves  = CIRCLETHROW,POISONJAB,BULKUP,ROCKTOMB
+ 
+ Pokemon = SAWK,14
+ Ability = STURDY
+  Ball   = ULTRABALL
+  Moves  = DOUBLEKICK,POISONJAB,PAYBACK,ROCKTOMB
  
  Pokemon = MAKUHITA,16
   Gender = Male
   Ball   = ULTRABALL
-  Moves  = WHIRLWIND,FAKEOUT,FORCEPALM,ROCKTOMB
   Item   = SITRUSBERRY
+  Moves  = BULKUP,FAKEOUT,FORCEPALM,ROCKTOMB
 
 #\\ =========== Trainers Battles ===========
 
@@ -376,6 +381,28 @@ LoseText = Take that, hayaaaa!
  Pokemon = MAKUHITA,13
  Pokemon = RIOLU,13
  
+ 
+#Challanger Path
+#-------------------------------
+[BLACKBELT,Ryu]
+LoseText = My fist are sore!
+ Pokemon = RIOLU,13
+ Pokemon = PANCHAM,13
+ Pokemon = SHROOMISH,13
+#-------------------------------
+[BLACKBELT,Ken]
+LoseText = Noooo!
+ Pokemon = HERACROSS,14
+#-------------------------------
+[BLACKBELT,Kiryu]
+LoseText = Back to practing!
+ Pokemon = THROH,14
+#-------------------------------
+[BLACKBELT,Kazuma]
+LoseText = Heyaaah!
+ Pokemon = SAWK,14 
+ 
+ 
 #Route 6
 #-------------------------------
 [LASS,Misato]
@@ -396,3 +423,4 @@ LoseText = My wings where cut mid fight!
  Pokemon = STARLY,15
  Pokemon = PIDGEY,15
  Pokemon = WINGULL,15
+ 
