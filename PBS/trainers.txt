@@ -424,3 +424,48 @@ LoseText = My wings where cut mid fight!
  Pokemon = PIDGEY,15
  Pokemon = WINGULL,15
  
+ 
+ 
+#Blitzhohle Cave
+#-------------------------------
+[SCIENTIST,Edward]
+LoseText = Oh nyo!
+ Items   = XDEFENSE
+ Pokemon = MAGNEMITE,16
+#-------------------------------
+[HIKER,Steve]
+LoseText = I was electrocuted!
+ Pokemon = GEODUDE,15	
+ Form    = 1
+ Pokemon = GEODUDE,15	
+ Form    = 1
+ Pokemon = GEODUDE,15	
+ Form    = 1
+#-------------------------------
+[POKEMANIAC,Willy]
+LoseText = My rare Pokémon!
+ Pokemon = TYNAMO,15
+ Pokemon = BELDUM,15
+ 
+ 
+ 
+#Route 7
+#-------------------------------
+[YOUNGSTER,Tobias]
+LoseText = What did I do wrong?
+ Pokemon = SENTRET,17
+ Pokemon = SENTRET,17
+ Pokemon = SENTRET,17
+#-------------------------------
+[AROMALADY,Flora]
+LoseText = This is why it smelt badly!
+ Pokemon = FOMANTIS,17
+ Pokemon = DEERLING,17
+#-------------------------------
+[BEAUTY,Jenny]
+LoseText = Atleast my Pokémon are pretty!
+ Pokemon = SNUBBULL,18
+#-------------------------------
+[BEAUTY,Jenny]
+LoseText = Atleast my Pokémon are pretty!
+ Pokemon = SNUBBULL,18

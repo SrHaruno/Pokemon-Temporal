@@ -211,4 +211,4 @@ class Battle::Scene::PokemonDataBox < Sprite
     @expBar.y    = value + 78 #78
     @hpNumbers.y = value + 56 #52
   end
-end
+ end

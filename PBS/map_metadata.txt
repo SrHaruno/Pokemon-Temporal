@@ -116,6 +116,7 @@ Name = Challangers Path
 Outdoor = true
 ShowArea = true
 MapPosition = 0,20,7
+BattleBack = grass
 #-------------------------------
 [035]   # Route 6
 Name = Route 6
