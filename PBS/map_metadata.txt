@@ -31,6 +31,9 @@ MapPosition = 0,15,12
 Name = Knallrot Town
 MapPosition = 0,15,12
 #-------------------------------
+[015]   # Knallrot Mart
+Name = Knallrot Town
+#-------------------------------
 [016]   # House_1
 Name = Knallrot Town
 #-------------------------------
@@ -71,6 +74,18 @@ MapSize = 3,111000000
 Name = Rosa City
 MapPosition = 0,15,9
 #-------------------------------
+[023]   # Rosa City Mart
+Name = Rosa City
+#-------------------------------
+[025]   # Rosa Gym
+Name = Rosa City
+#-------------------------------
+[026]   # Research Lab
+Name = Rosa City
+#-------------------------------
+[027]   # Research Lab
+Name = Rosa City
+#-------------------------------
 [028]   # Rosa Forest
 Name = Rosa Forest
 Outdoor = true
@@ -87,7 +102,7 @@ MapPosition = 0,18,9
 BattleBack = grass
 #-------------------------------
 [030]   # Route 4 Gate
-Name = Route 4 Gate
+Name = Route 4
 Bicycle = true
 #-------------------------------
 [031]   # Route 4
@@ -127,7 +142,7 @@ BattleBack = grass
 MapSize = 2,1010
 #-------------------------------
 [036]   # Route 6 Gate
-Name = Route 6 Gate
+Name = Route 6
 Bicycle = true
 #-------------------------------
 [037]   # Sturmstadt City
@@ -137,6 +152,9 @@ ShowArea = true
 MapPosition = 0,17,5
 MapSize = 2,1100
 #-------------------------------
+[038]   # Sturmstadt City Gate
+Name = Sturmstadt City
+#-------------------------------
 [039]   # Ziel Town  PC
 Name = Ziel Town
 MapPosition = 0,19,8
@@ -144,6 +162,15 @@ MapPosition = 0,19,8
 [040]   # Sturmstadt City PC
 Name = Sturmstadt City
 MapPosition = 0,17,5
+#-------------------------------
+[041]   # Ziel Town Mart
+Name = Ziel Town
+#-------------------------------
+[042]   # Sturmstadt Mart
+Name = Sturmstadt City
+#-------------------------------
+[043]   # Sturmstadt Gym
+Name = Sturmstadt City
 #-------------------------------
 [044]   # Blitzhohle Cave [1F]
 Name = Blitzhohle Cave
@@ -191,6 +218,15 @@ MapSize = 2,1100
 Name = Blau City
 MapPosition = 0,27,8
 #-------------------------------
+[051]   # Blau Mart
+Name = Blau City
+#-------------------------------
+[052]   # Blau Gym
+Name = Blau City
+#-------------------------------
+[053]   # House_2
+Name = Ziel Town
+#-------------------------------
 [054]   # Forgotten Chamber
 Name = Forgotten Chamber
 MapPosition = 0,18,9
@@ -201,6 +237,30 @@ Name = Blau City
 #-------------------------------
 [056]   # Lab 2f
 Name = Blau City
+#-------------------------------
+[057]   # House_1
+Name = Sturmstadt City
+#-------------------------------
+[058]   # House_2
+Name = Sturmstadt City
+#-------------------------------
+[059]   # Day-Care
+Name = Ziel Town
+#-------------------------------
+[060]   # House_2
+Name = Rosa City
+#-------------------------------
+[061]   # House_1
+Name = Rosa City
+#-------------------------------
+[062]   # House_3
+Name = Rosa City
+#-------------------------------
+[063]   # House_1
+Name = Ziel Town
+#-------------------------------
+[064]   # House_1
+Name = Route 4
 #-------------------------------
 [065]   # Comet Cave
 Name = Comet Cave
