@@ -407,7 +407,7 @@ LoseText = Heyaaah!
 #-------------------------------
 [LASS,Misato]
 LoseText = Buaaaa!
- Pokemon = MAREEP,16
+ Pokemon = EEVEE,16
 #-------------------------------
 [PICNICKER,Haruka]
 LoseText = Welp!
@@ -469,3 +469,22 @@ LoseText = Atleast my Pokémon are pretty!
 [BEAUTY,Jenny]
 LoseText = Atleast my Pokémon are pretty!
  Pokemon = SNUBBULL,18
+ 
+ 
+#Route 8
+#-------------------------------
+[TUBER_F,Whitty]
+LoseText = Bwaaah!
+ Pokemon = MARILL,18
+#-------------------------------
+[CRUSHGIRL,Molly]
+LoseText = I got sunburn!
+ Pokemon = RIOLU,17
+ Pokemon = RIOLU,17
+ Pokemon = RIOLU,17
+#-------------------------------
+[SWIMMER_F,Marlena]
+LoseText = I have been washed away!
+ Pokemon = PYUKUMUKU,17
+ Pokemon = SANDYGAST,17
+ Pokemon = MUDKIP,17
