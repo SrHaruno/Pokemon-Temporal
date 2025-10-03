@@ -5,10 +5,10 @@
 [RIVAL1,Stayle,1] #Player has Aron
 LoseText = You fight like everyone else!
 
- Pokemon = ZORUA,12
-  Gender = Male
+  Pokemon = ZORUA,12
+   Gender = Male
    Form  = 1
-  Moves  = SHADOWSNEAK,HONECLAWS,TORMENT,LEER
+   Moves  = SHADOWSNEAK,HONECLAWS,TORMENT,LEER
 
  Pokemon = PIKACHU,12
   Gender = Male
@@ -24,7 +24,7 @@ LoseText = You fight like everyone else!
  Pokemon = ZORUA,12
   Gender = Male
    Form  = 1
-  Moves  = SHADOWSNEAK,HONECLAWS,TORMENT,LEER
+  Moves  = SHADOWSNEAK,HONECLAWS,LEER,TORMENT
 
  Pokemon = PIKACHU,12
   Gender = Male
@@ -117,7 +117,7 @@ Items    = SUPERPOTION
  
  Pokemon = STARAVIA,18
   Gender = Male
-  Moves  = WINGATTACK,QUICKATTACK,DOUBLETEAM
+  Moves  = WINGATTACK,QUICKATTACK,DOUBLETEAM,ROOST
   Ball   = QUICKBALL
   Item   = ORANBERRY
   
@@ -364,10 +364,10 @@ LoseText = This place has a terrible fate!
  Pokemon = SHUPPET,11
  Pokemon = MISDREAVUS,11
 #-------------------------------
-[YOUNGCOUPLE, Stephany & Lucios]
-LoseText = Our Love will be eternal!
- Pokemon = FOMANTIS,12
- Pokemon = DEERLING,12
+[BIRDKEEPER, Lucios]
+LoseText = My birds!
+ Pokemon = PIDGEY,12
+ Pokemon = STARLY,12
 #-------------------------------
 [LASS,Sabrina]
 LoseText = My babies!

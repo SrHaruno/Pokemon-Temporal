@@ -13,6 +13,9 @@ MapPosition = 0,15,14
 Name = Anfang Town
 HealingSpot = 3,5,5
 #-------------------------------
+[004]   # Pokémon Lab
+Name = Anfang Town
+#-------------------------------
 [005]   # Route 1
 Name = Route 1
 Outdoor = true
@@ -20,6 +23,9 @@ ShowArea = true
 MapPosition = 0,15,13
 BattleBack = grass
 MapSize = 1,1
+#-------------------------------
+[006]   # Rival's house
+Name = Anfang Town
 #-------------------------------
 [011]   # Knallrot Town
 Name = Knallrot Town
@@ -181,14 +187,14 @@ BattleBack = cave
 Flags = Magnetic
 #-------------------------------
 [045]   # Blitzhohle Cave [2F]
-Name = Blitzhohle Cave [2F]
+Name = Blitzhohle Cave
 Bicycle = true
 MapPosition = 0,17,4
 BattleBack = cave
 Flags = Magnetic
 #-------------------------------
 [046]   # Blitzhohle Cave [3F]
-Name = Blitzhohle Cave [3F]
+Name = Blitzhohle Cave
 Bicycle = true
 MapPosition = 0,17,4
 BattleBack = cave
@@ -268,3 +274,21 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,20,9
 BattleBack = cave
+#-------------------------------
+[066]   # Blau_House1
+Name = Blau City
+#-------------------------------
+[067]   # Blau Apartment [1F]
+Name = Blau City
+#-------------------------------
+[068]   # Blau Apartment [2F]
+Name = Blau City
+#-------------------------------
+[069]   # Blau_House2
+Name = Blau City
+#-------------------------------
+[070]   # Blau_House3
+Name = Blau City
+#-------------------------------
+[071]   # Port
+Name = Blau City
