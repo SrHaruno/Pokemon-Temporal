@@ -217,6 +217,7 @@ MapSize = 2,1010
 #-------------------------------
 [049]   # Blau City
 Name = Blau City
+Outdoor = true
 MapPosition = 0,27,8
 MapSize = 2,1100
 #-------------------------------
